@@ -37,7 +37,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: true
@@ -78,8 +78,6 @@ params:
       url: "https://x.com/NotNotTushar"
     - name: linkedin
       url: "https://www.linkedin.com/in/kadam-tushar/"
-    - name: instagram
-      url: "https://www.instagram.com/kadam__tushar/"
     - name: github
       url: "https://github.com/Kadam-Tushar"
     
@@ -98,7 +96,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: ""
+    URL: "https://github.com/Kadam-Tushar/Kadam-Tushar.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
