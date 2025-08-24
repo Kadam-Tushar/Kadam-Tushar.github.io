@@ -128,11 +128,16 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
+    
+    - identifier: tiny-notes
+      name: Tiny Notes
+      url: /tiny-notes/ 
+      weight: 30
 
     - identifier: About
       name: About
       url: /about/ 
-      weight: 30
+      weight: 40
 
 
 
