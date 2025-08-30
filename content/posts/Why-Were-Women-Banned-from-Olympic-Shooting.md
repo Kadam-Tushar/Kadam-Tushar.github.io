@@ -7,29 +7,37 @@ tags: ["Olympic", 'non-technical',]
 categories: ["blog"]
 ---
 
-Why Were Women Banned from Olympic Shooting?
 
-In 1992, Zhang Shan, a Chinese shooter, made history—winning Olympic gold in skeet shooting against men. But instead of celebrating this, the International Shooting Union took a bizarre step: in 1996, they banned women from competing in the event. No explanation. No separate category. Just exclusion.
+Imagine this: You train for years, perfect your technique, and finally win Olympic gold against the world's best competitors. But instead of celebrating your achievement, the governing body of your sport bans your entire gender from competing. This isn't fiction, it happened to Zhang Shan, a Chinese shooter who made Olympic history in 1992.
 
-### A Sport of Precision, Not Strength
+## The Victory That Changed Everything
 
-Shooting isn’t about brute force—it’s about focus, control, and nerves of steel. That’s why men and women used to compete together. But after Zhang Shan’s victory, the rules changed. By 2000, they reintroduced a separate women’s event, but studies still show no real performance gap between genders. So why were women ever banned?
+In 1992, Zhang Shan did something unprecedented: she won Olympic gold in skeet shooting, competing against men. This wasn't just a personal triumph, it was a moment that challenged everything we thought we knew about gender and sports performance. Skeet shooting had always been a mixed-gender event, and Zhang Shan proved that women could not only compete but dominate at the highest level.
+The International Shooting Sport Federation banned women from trap and skeet events in 1992, [claiming low participation](https://www.proquest.com/docview/385392230?sourcetype=Newspapers) and wanting to make room for more male competitors.
 
-{{< figure src="/images/manu_bhakar.jpeg" title="" align=center >}}
+## The Science Behind the Controversy
 
-### Does Biology Give an Edge?
+Here's what makes this ban particularly puzzling: shooting isn't about brute strength or physical power. It's about precision, focus, mental discipline, and nerves of steel. These are qualities that aren't inherently tied to gender.
 
-Some argue that women might even have advantages in shooting. Their hip structure offers better stability in the standing position, while men’s taller build and upper body strength are better suited for sprinting, not holding a rifle steady. So, was this ban about performance—or just outdated thinking?
+{{< figure src="/images/manu_bhakar.jpeg" title="Manu Bhaker - Indian Olympic shooter" align=center >}}
 
-### Women Already Outperform in Some Sports
+In fact, some [research](https://pubmed.ncbi.nlm.nih.gov/31083662/) suggests that women might actually have certain advantages in shooting sports. Their hip structure can provide better stability in standing positions, while men's taller build and upper body strength though beneficial in many sports, don't necessarily translate to better shooting performance.
 
-While men dominate in speed and power, women often outlast them in endurance sports like long-distance swimming. Their higher body fat percentage improves buoyancy and insulation, giving them an edge over longer distances. Science says women can compete, but tradition says otherwise.
+## The Biology Question: Do Women Have Hidden Advantages?
 
-### The Future of Mixed-Gender Events?
+Let's dive deeper into the science. While men typically excel in sports requiring explosive power and speed, women often outperform men in endurance activities. Take long-distance swimming, for example, where women's higher body fat percentage provides better buoyancy and insulation, giving them a natural advantage over longer distances.
+But shooting is different. It's about control, consistency, and mental fortitude. These are skills that can be developed by anyone, regardless of gender. So why the ban?
 
-Equestrian events have always been gender-neutral, and the 2024 Paris Olympics will see full gender parity in participation. Should more sports embrace mixed competition, or do separate categories ensure fairness? The debate isn’t over.
+## The Road to Redemption
 
-At the end of the day, skill wins medals—not gender.
+By 2000, the International Shooting Union had a change of heart and reintroduced a separate women's event. But the damage was done. 
+Today, studies consistently show no significant performance gap between men and women in shooting sports when they compete under the same conditions. The ban wasn't about fairness, it was about maintaining the status quo.
 
-This blog is adapted from my [Twitter post](https://x.com/NotNotTushar/status/1820045307297599507).
+## Looking Forward: The Future of Mixed-Gender Sports
 
+The Olympic landscape is evolving. Equestrian events have always been gender-neutral, recognizing that the partnership between rider and horse transcends gender differences. The 2024 Paris Olympics will achieve full gender parity in participation for the first time in history.
+This raises an important question: Should more sports embrace mixed-gender competition? Or do separate categories ensure fairness? The answer isn't simple, but the conversation is crucial.
+
+---
+
+*This blog is adapted from my [Twitter post](https://x.com/NotNotTushar/status/1820045307297599507).*
