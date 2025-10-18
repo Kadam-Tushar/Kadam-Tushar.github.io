@@ -1,8 +1,8 @@
 ---
 date: '2025-10-18T19:22:43+05:30'
 title: 'How I Cut My Portfolio Load Time from 7 Seconds to 300ms'
-description: "A journey through website optimization: from rookie mistakes to a sub-14kB, blazing-fast portfolio."
-summary: "A journey through website optimization: from rookie mistakes to a sub-14kB, blazing-fast portfolio."
+description: "From rookie mistakes to a sub-14kB, blazing-fast portfolio."
+summary: "From rookie mistakes to a sub-14kB, blazing-fast portfolio."
 tags: ["web-development", "optimization", "performance", "technical"]
 categories: ["blog"]
 showtoc: false
