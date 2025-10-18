@@ -150,7 +150,7 @@
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-{{- template "_internal/google_analytics.html" . }}
+{{- /* Google Analytics is now handled in extend_footer.html for better performance */ -}}
 {{- template "partials/templates/opengraph.html" . }}
 {{- template "partials/templates/twitter_cards.html" . }}
 {{- template "partials/templates/schema_json.html" . }}
