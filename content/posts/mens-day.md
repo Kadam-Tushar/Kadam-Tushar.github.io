@@ -1,9 +1,9 @@
 ---
 date: '2025-11-19'
-title: 'The Weight?'
+title: 'The Unspoken Weight'
 description: "Some thoughts on Men's Day"
 summary: "Patterns I've noticed talking to guys at different stages of life."
-tags: ["thoughts", "mens da", "life"]
+tags: ["thoughts", "mens day", "life"]
 categories: ["blog"]
 showtoc: false
 ---
