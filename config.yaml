@@ -129,11 +129,16 @@ menu:
       name: Tiny Notes
       url: /tiny-notes/ 
       weight: 30
+    
+    - identifier: list-2026
+      name: List-2026
+      url: /list-2026/ 
+      weight: 40
 
     - identifier: About
       name: About
       url: /about/ 
-      weight: 40
+      weight: 50
 
 
 
