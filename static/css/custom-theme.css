@@ -1,0 +1,444 @@
+/* Designer-Grade Minimalist Theme - Premium Color Palette */
+
+/* Light Theme - Warm, sophisticated, elegant */
+:root {
+    --gap: 24px;
+    --content-gap: 20px;
+    --nav-width: 1024px;
+    --main-width: 720px;
+    --header-height: 60px;
+    --footer-height: 60px;
+    --radius: 10px;
+    
+    /* Light theme - Premium warm palette with subtle blue-gray undertones */
+    --theme: rgb(250, 250, 252);           /* Warm off-white with subtle cool undertone */
+    --entry: rgb(255, 255, 255);            /* Pure white for cards - maximum contrast */
+    --primary: rgb(18, 18, 22);             /* Deep charcoal with blue-gray hint */
+    --secondary: rgb(92, 95, 102);          /* Sophisticated medium gray-blue */
+    --tertiary: rgb(235, 237, 240);         /* Cool light gray for borders */
+    --content: rgb(26, 28, 32);             /* Rich dark for content - excellent readability */
+    --code-block-bg: rgb(248, 249, 251);    /* Very subtle cool gray for code */
+    --code-bg: rgb(242, 244, 247);          /* Slightly deeper for inline code */
+    --border: rgb(228, 231, 236);           /* Refined border with cool tone */
+    
+    /* Accent colors for interactive elements */
+    --accent: rgb(59, 130, 246);            /* Modern blue accent */
+    --accent-hover: rgb(37, 99, 235);       /* Deeper blue on hover */
+    --accent-light: rgb(239, 246, 255);     /* Very light blue for highlights */
+}
+
+/* Dark Theme - Deep, rich, premium */
+.dark {
+    --theme: rgb(15, 16, 20);               /* Deep navy-black background */
+    --entry: rgb(20, 22, 27);               /* Slightly lighter card - rich depth */
+    --primary: rgb(234, 236, 240);          /* Soft warm light for text */
+    --secondary: rgb(156, 163, 175);        /* Elegant medium gray */
+    --tertiary: rgb(45, 48, 55);            /* Dark gray-blue for borders */
+    --content: rgb(226, 228, 232);          /* Warm light gray for content */
+    --code-block-bg: rgb(24, 26, 31);       /* Deep background for code */
+    --code-bg: rgb(28, 31, 37);             /* Slightly lighter for inline code */
+    --border: rgb(39, 42, 48);              /* Refined dark border */
+    
+    /* Accent colors for dark theme */
+    --accent: rgb(96, 165, 250);            /* Bright blue accent */
+    --accent-hover: rgb(147, 197, 253);     /* Lighter blue on hover */
+    --accent-light: rgb(30, 58, 138);       /* Dark blue for highlights */
+}
+
+/* Premium post entry cards with sophisticated shadows */
+.post-entry {
+    border: 1px solid var(--border);
+    box-shadow: 
+        0 1px 3px rgba(0, 0, 0, 0.04),
+        0 1px 2px rgba(0, 0, 0, 0.02);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    background: var(--entry);
+    backdrop-filter: blur(10px);
+}
+
+.post-entry:hover {
+    box-shadow: 
+        0 4px 12px rgba(0, 0, 0, 0.08),
+        0 2px 4px rgba(0, 0, 0, 0.04);
+    border-color: var(--tertiary);
+    transform: translateY(-2px);
+}
+
+.dark .post-entry {
+    box-shadow: 
+        0 1px 3px rgba(0, 0, 0, 0.5),
+        0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.dark .post-entry:hover {
+    box-shadow: 
+        0 4px 12px rgba(0, 0, 0, 0.7),
+        0 2px 4px rgba(0, 0, 0, 0.5);
+    border-color: var(--tertiary);
+}
+
+/* Refined code blocks with subtle styling */
+.post-content .highlight {
+    border: 1px solid var(--border);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+.post-content code {
+    border: 1px solid var(--border);
+    background: var(--code-bg);
+    color: var(--content);
+    font-weight: 500;
+    padding: 3px 6px;
+}
+
+/* Premium table styling */
+.post-content table {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.post-content table th {
+    background: linear-gradient(to bottom, var(--code-bg), var(--tertiary));
+    font-weight: 600;
+    color: var(--primary);
+    text-transform: uppercase;
+    font-size: 0.85em;
+    letter-spacing: 0.5px;
+}
+
+.post-content table td {
+    border-top: 1px solid var(--border);
+}
+
+/* Elegant blockquote with accent color */
+.post-content blockquote {
+    border-inline-start: 4px solid var(--accent);
+    background: var(--accent-light);
+    padding: 16px 20px;
+    border-radius: 6px;
+    margin: 24px 0;
+    font-style: italic;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+.dark .post-content blockquote {
+    background: var(--accent-light);
+    border-inline-start-color: var(--accent);
+}
+
+/* Refined pagination with accent colors */
+.pagination a {
+    border: 1px solid var(--border);
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    font-weight: 500;
+}
+
+.pagination a:hover {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+    box-shadow: 0 2px 4px rgba(59, 130, 246, 0.3);
+}
+
+.dark .pagination a:hover {
+    background: var(--accent);
+    box-shadow: 0 2px 4px rgba(96, 165, 250, 0.4);
+}
+
+/* Premium tag styling */
+.post-tags a {
+    border: 1px solid var(--border);
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    font-weight: 500;
+    background: var(--code-bg);
+}
+
+.post-tags a:hover {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(59, 130, 246, 0.25);
+}
+
+.dark .post-tags a:hover {
+    background: var(--accent);
+    box-shadow: 0 2px 4px rgba(96, 165, 250, 0.35);
+}
+
+/* Sophisticated TOC */
+.toc {
+    border: 1px solid var(--border);
+    background: var(--code-bg);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    border-radius: var(--radius);
+}
+
+/* Premium header navigation */
+#menu a {
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    font-weight: 500;
+    position: relative;
+}
+
+#menu a::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--accent);
+    transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+#menu a:hover::after,
+#menu .active::after {
+    width: 100%;
+}
+
+#menu a:hover {
+    color: var(--accent);
+}
+
+#menu .active {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+/* Refined social icons with hover effects */
+.social-icons a {
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    border-radius: 6px;
+    padding: 8px;
+}
+
+.social-icons a:hover {
+    background: var(--accent-light);
+    transform: translateY(-2px);
+    opacity: 1;
+}
+
+.dark .social-icons a:hover {
+    background: var(--accent-light);
+}
+
+/* Smooth, premium transitions */
+:root,
+.dark,
+body,
+.post-entry,
+.post-content,
+.header,
+.footer,
+.nav {
+    transition: background-color 0.4s cubic-bezier(0.4, 0, 0.2, 1), 
+                color 0.4s cubic-bezier(0.4, 0, 0.2, 1), 
+                border-color 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Premium link styling with accent color */
+.post-content a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1.5px solid transparent;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    font-weight: 500;
+}
+
+.post-content a:hover {
+    color: var(--accent-hover);
+    border-bottom-color: var(--accent);
+}
+
+.dark .post-content a {
+    color: var(--accent);
+}
+
+.dark .post-content a:hover {
+    color: var(--accent-hover);
+}
+
+/* Elegant horizontal rule */
+.post-content hr {
+    background: linear-gradient(to right, 
+        transparent, 
+        var(--tertiary), 
+        transparent);
+    height: 1px;
+    border: none;
+    margin: 40px 0;
+}
+
+/* Premium button styling */
+button#theme-toggle {
+    opacity: 0.85;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    border-radius: 6px;
+    padding: 4px;
+}
+
+button#theme-toggle:hover {
+    opacity: 1;
+    background: var(--accent-light);
+    transform: scale(1.05);
+}
+
+/* Sophisticated top-link button */
+.top-link {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    box-shadow: 
+        0 4px 6px rgba(0, 0, 0, 0.1),
+        0 2px 4px rgba(0, 0, 0, 0.06);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.dark .top-link {
+    box-shadow: 
+        0 4px 6px rgba(0, 0, 0, 0.5),
+        0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.top-link:hover {
+    box-shadow: 
+        0 6px 12px rgba(0, 0, 0, 0.15),
+        0 3px 6px rgba(0, 0, 0, 0.1);
+    border-color: var(--accent);
+    background: var(--accent);
+    transform: translateY(-2px);
+}
+
+.dark .top-link:hover {
+    box-shadow: 
+        0 6px 12px rgba(0, 0, 0, 0.7),
+        0 3px 6px rgba(0, 0, 0, 0.5);
+}
+
+.top-link:hover svg {
+    color: white;
+}
+
+/* Refined archive styling */
+.archive-item {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+    transition: all 0.2s ease;
+}
+
+.archive-item:hover {
+    padding-left: 8px;
+    border-bottom-color: var(--accent);
+}
+
+.archive-item:last-child {
+    border-bottom: none;
+}
+
+/* Premium logo styling */
+.logo a {
+    background: linear-gradient(135deg, var(--accent), var(--accent-hover));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+/* Enhanced entry header */
+.entry-header h2 {
+    font-weight: 600;
+    letter-spacing: -0.3px;
+}
+
+/* Refined post title */
+.post-title {
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+}
+
+/* Premium share buttons */
+.share-buttons {
+    border: 1px solid var(--border);
+    background: var(--code-bg);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.share-buttons a {
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    border-radius: 6px;
+    padding: 8px;
+}
+
+.share-buttons a:hover {
+    background: var(--accent-light);
+    transform: translateY(-2px);
+}
+
+/* Sophisticated pagination nav */
+.paginav {
+    border: 1px solid var(--border);
+    background: var(--code-bg);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    border-radius: var(--radius);
+}
+
+.paginav a {
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.paginav a:hover {
+    background: var(--accent);
+    color: white;
+}
+
+.dark .paginav a:hover {
+    background: var(--accent);
+}
+
+/* Premium footer styling */
+.footer {
+    color: var(--secondary);
+    font-weight: 400;
+}
+
+.footer a {
+    transition: all 0.2s ease;
+    border-bottom: 1px solid var(--tertiary);
+}
+
+.footer a:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+}
+
+/* Enhanced code syntax highlighting containers */
+div.highlight,
+pre {
+    border-radius: var(--radius);
+    overflow: hidden;
+}
+
+/* Refined image styling */
+.post-content img {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.post-content img:hover {
+    transform: scale(1.01);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.dark .post-content img {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.dark .post-content img:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.6);
+}
