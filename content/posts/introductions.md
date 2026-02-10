@@ -2,55 +2,31 @@
 date: '2026-02-08T22:59:35+05:30'
 draft: true
 title: 'On Self-Introductions'
-description: "A good self-introduction is not who you are, it’s who you are for them"
+description: "A good self-introduction is not who you are, it's who you are for them"
 ---
 
 
-"Self introductions should not be about yourself." There I said it! Sounds counter intutive right? 
+"Self-introductions shouldn't be about yourself." There, I said it. Sounds counterintuitive, right?
+
+Here's the line that reframed everything for me:
 
 > A good self-introduction is not who you are,
-> it’s who you are for *them*.
+> it's who you are for *them*.
 
-That line reframed everything for me. I'd spent years treating intros as a chance to *express* who I am—when the real job is to show who I am *for the person in front of me*. The goal isn't self-expression. **It's alignment.**
+I used to treat intros as a chance to *express* who I am. Turns out the real job is to show who I am *for the person in front of me*. Think about it—when you're introducing yourself, the story that actually matters is the one forming in *their* head. They're quietly asking: "How does this person fit in my world?"
 
-So what's actually going on when you're talking? The other person isn't just listening. They're running a quiet question in the back of their head:
+My go-to used to be: "Hi, I'm Tushar, I'm a software engineer." Polite nods, sure. The only time someone really bit was when they were in tech too and asked where I worked. In personal settings? Crickets. (No offence to crickets. They're great at filling silence.)
 
-> “Where do I place this person in my mental map?”
+Things changed when I started framing my intro around what I could do *for* them. Small shift—completely different response.
 
-Leave that question unanswered and you get misclassified, forgotten, or underestimated. 
-Most of us (me included) lead with *what we do* and *who we are*. The lever that actually moves the needle: **why should they care—in this context?**
+**Interviews.** They're really answering one question: can we hire this person? So tune your intro to that. Lead with what helps them decide—relevant projects, experience in the same space—and trim the rest. If your college doesn't add signal for them, drop it; if it does (e.g. lots of alumni there), keep it.
 
+**Parties and social stuff.** Nobody showed up to hear "I'm a software engineer." They're there to chill. So I listen first. What are people talking about? Sports, F1, content creation, philosophy? I have a few hooks ready. Marketing person? I mention the Twitter page I'm trying to grow. F1 enthusiast? I don't keep my eternal dislike for McLaren to myself. Tech or ML? That's my job—I get paid for that one, so I can own it. Philosophy? Stoicism, Meditations, Marcus—and what I'm reading. Same me, different shade depending on who's in front of me. You're not pretending; you're just choosing which part of you gets the mic.
 
-Okay, enough theory. Here are situations that show up all the time when you're in your twenties in India—and how to tailor your intro so they actually place you right.
-
-**1. Placements, job interview, or recruiter at a campus drive**  
-*Why they care:* Can you do the job? Will you fit our company?  
-Lead with the role you're targeting and one or two proof points that match (project, internship, tier of college if it helps). Skip the long story. Example: "I'm [name], from [college/branch]. I'm looking for [role]—I've done [X project/internship] in that space, so I'm really keen on [this company/role]."
-
-**2. First day as a fresher / meeting the team**  
-*Why they care:* How do we work together? What will you own?  
-Anchor in your role and how you'll show up for *them*. Example: "I'm [name], joining as [role]. I'll be working on [X], so you'll see me in [stand-ups / this pod / reviews]. Happy to help with [Y] if you need."
-
-**3. Alumni meet, startup event, or conference (Blr, Mumbai, etc.)**  
-*Why they care:* Do we have overlap? Is this worth a LinkedIn add or a follow-up?  
-Give a one-line hook that makes it easy to continue the conversation. Example: "I'm [name]—I'm from [college/batch] too, now working on [domain]. Currently trying to figure out [specific thing], so I'm here to learn from people who've been there."
-
-**4. Referral request or "can I get five minutes?" call**  
-*Why they care:* Why are you reaching out? What do you want from me?  
-State your ask and why *they* in one sentence. Example: "I'm [name], I got your number from [mutual]. I'm applying for [role/company] and your experience at [X] is exactly what I wanted to understand—so thanks for taking the time."
-
-**5. Indian wedding, family function, or "whose beta/beti are you?"**  
-*Why they care:* Which family? What do you do? How do I include you in the conversation?  
-Give them something to latch onto so they can place you and loop you in. Example: "I'm [name], [friend/cousin]'s friend—I'm from [city]. I work in [field] / I'm preparing for [UPC/CA/etc.]—so if the conversation goes there I can chip in; otherwise I'm good just listening."
-
-**6. First meeting with a client or stakeholder (Indian business context)**  
-*Why they care:* Are you the right person to talk to? Will you get things done?  
-Lead with what you own and how it connects to *their* problem. Example: "I'm [name], I'm the point of contact for [area] on this engagement. So for anything around [X] or [Y]—I'm the one who'll take it to closure."
-
-In every case, the move is the same: **before you open your mouth, ask yourself why they should care in *this* context.** Then answer that—and cut the rest.
+**When you know nothing about them.** Honestly, it's rare. You can almost always infer something—you're on a trip, they're into travel too; you're at a café, they like coffee. Start with a minimal intro and flip the question back. "I'm [name], just passing through—what brings you here?" Then listen. You'll find a common thread. If you don't, you still learned something.
 
 
 
+Someone might say: aren't we forgetting to show who we *are*? I don't think so. We've got a lot of shades. We're not hiding—we're just picking the one that sparks a real connection. Same person, different room, different slice.
 
-
-
+I read this somewhere and it stuck: *"Seek first to understand, then to be understood."* Your intro works best when it starts from their world, not yours.
